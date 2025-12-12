@@ -14,7 +14,7 @@ Dark regions indicate higher ride volume.
 
 ---
 
-### **2. Income vs. Divvy Usage Scatterplot and Regression Trendline **
+### **2. Income vs. Divvy Usage Scatterplot and Regression Trendline**
 Examines the relationship between median household income and total ride count.
 Linear regression highlights the strength and direction of the income–usage relationship.
 
