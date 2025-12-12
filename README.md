@@ -1,8 +1,8 @@
-# Chicago-Divvy-Income-Analysis
-Geospatial and exploratory analysis of Chicago Divvy bike usage and neighborhood income patterns.
-
 # Divvy Bike Usage & Neighborhood Income Analysis
 ### *Geospatial & Exploratory Data Analysis of Chicago Divvy Trips*
+
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/8648a167-be98-4548-9d4b-6b1882803c7f" />
+
 
 **Author:** William Ajayi  
 **Tools:** Python (Pandas, GeoPandas, Matplotlib, Seaborn, Folium), Jupyter Notebook  
