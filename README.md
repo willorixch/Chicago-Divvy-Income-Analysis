@@ -74,7 +74,7 @@ This project aims to:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - **Divvy usage is highly concentrated in central and higher-income neighborhoods**, with significantly lower activity in many South and West Side regions.  
 - **A positive relationship exists between median household income and total ride count**, suggesting that access and bike availability may disproportionately benefit higher-income communities.  
 - **Geospatial heatmaps reveal clear regional clustering**, with downtown and North Side neighborhoods showing the highest ride density.  
@@ -82,7 +82,7 @@ This project aims to:
 
 ---
 
-## 📘 Recommendations
+## Recommendations
 - **Expand bike availability and station infrastructure** in underserved neighborhoods to improve accessibility.  
 - **Partner with city planners** to target transportation equity gaps in South and West Side communities.  
 - **Pilot incentives or pricing adjustments** to encourage ridership in low-usage areas.  
