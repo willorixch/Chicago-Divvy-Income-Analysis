@@ -1,4 +1,4 @@
-## 🖼️ Visualizations
+## Visualizations
 
 Below are selected visualizations generated during the analysis.  
 Each figure highlights a different aspect of Chicago’s Divvy usage patterns.
@@ -9,42 +9,32 @@ Each figure highlights a different aspect of Chicago’s Divvy usage patterns.
 Neighborhood-level map showing total Divvy ride density across Chicago.  
 Dark regions indicate higher ride volume.
 
-<img src="visuals/ride_density_heatmap.png" width="650"/>
+<img width="1322" height="1377" alt="image" src="https://github.com/user-attachments/assets/5654b268-21b4-4cd9-b287-7ffb0f936ff3" />
+
 
 ---
 
-### **2. Income vs. Divvy Usage Scatterplot**
+### **2. Income vs. Divvy Usage Scatterplot and Regression Trendline **
 Examines the relationship between median household income and total ride count.
-
-<img src="visuals/income_vs_usage_scatter.png" width="650"/>
-
----
-
-### **3. Income vs. Usage (Regression Trendline)**
 Linear regression highlights the strength and direction of the income–usage relationship.
 
-<img src="visuals/income_vs_usage_regression.png" width="650"/>
+<img width="1188" height="590" alt="image" src="https://github.com/user-attachments/assets/b3e948a7-1ba3-4643-b52b-51a4acc9c1cb" />
+
 
 ---
 
-### **4. Regional Usage Patterns (FacetGrid)**
+### **3. Regional Usage Patterns (FacetGrid)**
 Divvy usage broken down across Chicago’s North, West, South, and Central regions.
 
-<img src="visuals/regional_usage_facetgrid.png" width="650"/>
+<img width="1419" height="1079" alt="image" src="https://github.com/user-attachments/assets/a0ddfa47-53a1-4ed6-8d8d-58f63f1e1a55" />
 
 ---
 
-### **5. Geospatial Neighborhood Map**
-Geospatial visualization of Divvy ride density over Chicago’s official neighborhood boundaries.
 
-<img src="visuals/neighborhood_map.png" width="650"/>
-
----
-
-### **6. Top 10 Start/End Neighborhoods**
+### **4. Top 10 Start/End Neighborhoods**
 Bar charts showing neighborhoods with the highest and lowest Divvy usage.
 
-<img src="visuals/top10_start_neighborhoods.png" width="600"/>
-<img src="visuals/top10_end_neighborhoods.png" width="600"/>
+<img width="1590" height="985" alt="image" src="https://github.com/user-attachments/assets/633f5ba3-e95a-4b85-8577-0ec5e50d3ad2" />
+
 
 ---
